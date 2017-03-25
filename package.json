@@ -1,0 +1,22 @@
+{
+  "name": "ml-testdrive",
+  "version": "1.0.0",
+  "description": "Machine Learning Tools Testdrive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fijjas/ml-testdrive.git"
+  },
+  "author": "Egor Vorozhtsov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fijjas/ml-testdrive/issues"
+  },
+  "homepage": "https://github.com/fijjas/ml-testdrive#readme",
+  "dependencies": {
+    "machine_learning": "^0.1.1"
+  }
+}
